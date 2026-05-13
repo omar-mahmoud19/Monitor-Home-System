@@ -6,6 +6,14 @@ The system provides dashboards, reports, goals tracking, automation controls, an
 
 ---
 
+## Authors
+
+Developed by:
+
+* Omar Mahmoud
+* Tatek Mohamed
+* Omar Shaltout
+
 ## Features
 
 * Smart Home Dashboard
@@ -211,18 +219,4 @@ Example APIs:
 * AI-based Automation Suggestions
 * Live Device Synchronization
 
----
 
-## Authors
-
-Developed by:
-
-* Omar Mahmoud
-* Tatek Mohamed
-* Omar Shaltout
-
----
-
-## Repository Description
-
-Smart Home Monitoring & Automation System built with PHP, MySQL, JavaScript, and REST APIs. Includes dashboards, appliance management, automation workflows, reports, and energy usage tracking.
