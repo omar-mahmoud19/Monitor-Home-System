@@ -9,8 +9,8 @@ The system provides dashboards, reports, goals tracking, automation controls, an
 ## Authors
 
 Developed by:
-* Tatek Mohamed
 * Omar Mahmoud
+* Tarek Mohamed
 * Omar Shaltout
 
 ## Features
@@ -174,11 +174,20 @@ Example APIs:
 
 ---
 
-### Dashboard
+### Dashboard By Owner
 ![Dashboard](Documentation%20and%20Diagrams/dashboard.png)
 
 ![Dashboard 2](Documentation%20and%20Diagrams/dashboard2.png)
 
+---
+
+### Dashboard By Tenant
+
+![Appliances](Documentation%20and%20Diagrams/tenant_role.png)
+---
+### Dashboard By Guest
+
+![Appliances](Documentation%20and%20Diagrams/guest_role.png)
 ---
 
 ### Appliances Management
