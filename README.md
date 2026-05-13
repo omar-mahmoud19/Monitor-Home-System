@@ -12,6 +12,7 @@ Developed by:
 * Omar Mahmoud
 * Tarek Mohamed
 * Omar Shaltout
+* Abdelrahman Ragab
 
 ## Features
 
