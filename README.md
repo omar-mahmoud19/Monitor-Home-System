@@ -9,9 +9,8 @@ The system provides dashboards, reports, goals tracking, automation controls, an
 ## Authors
 
 Developed by:
-
-* Omar Mahmoud
 * Tatek Mohamed
+* Omar Mahmoud
 * Omar Shaltout
 
 ## Features
