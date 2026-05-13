@@ -1,0 +1,1 @@
+{"version":2,"defects":{"AuthTest::testDashboardCalculation":7,"AuthTest::testLogin":7,"AuthTest::testPasswordValidation":7,"AuthTest::testEmailValidation":7},"times":{"AuthTest::testTrueIsTrue":0.009,"AuthTest::testEmailValidation":0,"AuthTest::testPasswordValidation":0.001,"AuthTest::testLogin":0,"AuthTest::testDashboardCalculation":0}}

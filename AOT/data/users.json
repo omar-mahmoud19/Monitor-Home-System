@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1777665615,
+        "firstName": "Tarek",
+        "lastName": "Orban",
+        "email": "tarekorban2006@gmail.com",
+        "password": "$2y$10$gf8zY0qN5KNenkJI\/xeIm.UImOOZ7Zkw71q0Vy9IcEyauBSi8t7Jy",
+        "homeName": "home",
+        "avatar": "TO",
+        "role": "owner",
+        "currency": "USD",
+        "units": "metric",
+        "createdAt": "2026-05-01T22:00:15+02:00"
+    },
+    {
+        "id": 1777666363,
+        "firstName": "Tarek",
+        "lastName": "Orban",
+        "email": "tarekoorban2006@gmail.com",
+        "password": "$2y$10$y8CmT4qoT2dYtoxQo8plCOvRIje6g5dQFFfGv83c0DIE04lvuUSDq",
+        "homeName": "home",
+        "avatar": "TO",
+        "role": "owner",
+        "currency": "USD",
+        "units": "metric",
+        "createdAt": "2026-05-01T22:12:44+02:00"
+    },
+    {
+        "id": 1777674021,
+        "firstName": "Tarek",
+        "lastName": "Orban",
+        "email": "tarekorbann2006@gmail.com",
+        "password": "$2y$10$QIzoB0P4W7EduPqIU3S.XuFDLM3YeMugBcXxj0dTVWwzWSw9qMTb6",
+        "homeName": "home",
+        "avatar": "TO",
+        "role": "owner",
+        "currency": "USD",
+        "units": "metric",
+        "createdAt": "2026-05-02T00:20:21+02:00"
+    }
+]
